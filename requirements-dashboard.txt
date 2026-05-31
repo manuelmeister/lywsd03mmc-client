@@ -1,0 +1,5 @@
+-r requirements.txt
+
+pandas>=2.2,<3
+plotly>=6,<7
+streamlit>=1.40,<2
