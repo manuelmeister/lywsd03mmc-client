@@ -1,0 +1,14 @@
+# Exportierte Sensordaten
+/mi_history.csv
+/mi_history.csv.tmp
+
+# Python
+/.venv/
+__pycache__/
+*.py[cod]
+
+# IDE
+/.idea/
+
+# macOS
+.DS_Store
